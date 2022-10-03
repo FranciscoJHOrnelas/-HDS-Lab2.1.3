@@ -1,0 +1,10 @@
+D:\Users\franc\Desktop\Semestre4\Herramientas de desarrollo de software\Mesero\Mesero\bin\Debug\Mesero.exe.config
+D:\Users\franc\Desktop\Semestre4\Herramientas de desarrollo de software\Mesero\Mesero\bin\Debug\Mesero.exe
+D:\Users\franc\Desktop\Semestre4\Herramientas de desarrollo de software\Mesero\Mesero\bin\Debug\Mesero.pdb
+D:\Users\franc\Desktop\Semestre4\Herramientas de desarrollo de software\Mesero\Mesero\obj\Debug\Mesero.csprojAssemblyReference.cache
+D:\Users\franc\Desktop\Semestre4\Herramientas de desarrollo de software\Mesero\Mesero\obj\Debug\Mesero.Form1.resources
+D:\Users\franc\Desktop\Semestre4\Herramientas de desarrollo de software\Mesero\Mesero\obj\Debug\Mesero.Properties.Resources.resources
+D:\Users\franc\Desktop\Semestre4\Herramientas de desarrollo de software\Mesero\Mesero\obj\Debug\Mesero.csproj.GenerateResource.cache
+D:\Users\franc\Desktop\Semestre4\Herramientas de desarrollo de software\Mesero\Mesero\obj\Debug\Mesero.csproj.CoreCompileInputs.cache
+D:\Users\franc\Desktop\Semestre4\Herramientas de desarrollo de software\Mesero\Mesero\obj\Debug\Mesero.exe
+D:\Users\franc\Desktop\Semestre4\Herramientas de desarrollo de software\Mesero\Mesero\obj\Debug\Mesero.pdb
